@@ -25,4 +25,18 @@ authors:
 
 # The Open Arabic LLM Leaderboard 2
 
+## Current status of Arabic LLMs
+
+
+## Impact of the previous leaderboard
+
+
+## Why do we need a new leaderboard ?
+
+
+## What's new in this version ?
+
+
+## Results from V1 and V2
+
 [to be continued]
